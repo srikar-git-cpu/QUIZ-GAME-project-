@@ -14,6 +14,6 @@ else:
 
 print('question3: what is national tree')
 answer3 = input("your answer: ")
-if answer3.lower == "banyan tree"
+if answer3.lower == "banyan tree" :
 else : 
     print("wrong")
